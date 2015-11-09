@@ -1,0 +1,49 @@
+h1{ 
+    font-family: Helvetica;
+    color: #6633FF;
+    text-align: center;
+}
+
+table {
+     margin: auto;
+}
+
+thead {
+    font-family: Helvetica;
+    text-align: center;
+    font-size: 15pt;
+    /*background-color: #CCCCFF;*/
+    background-color: #003366;
+    opacity: 0.7;
+}
+
+thead td {
+    color: #F8F8F8;
+    font-weight: bold;
+    padding-top: 20px;
+    padding-right: 50px;
+    padding-bottom: 20px;
+    padding-left: 50px;
+    width: 25%;
+}
+
+body {
+    margin: auto;
+    width: 60%;
+    background-image: url("http://7-themes.com/data_images/out/60/6975828-city-night-street-lights.jpg");
+}
+
+tbody td {
+    padding-top: 10px;
+    padding-right: 40px;
+    padding-bottom: 10px;
+    padding-left: 40px;
+    color: #F8F8F8;
+    font-family: Helvetica;
+    text-align: center;
+    border: 1px solid gray;
+    background-color: #6633FF;
+    opacity: 0.6;
+    width: 25%;
+}
+
